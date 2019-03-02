@@ -29,3 +29,9 @@
    ```
 6. **My practice:**  
    **[My Landing-Page](https://myrzuk.github.io)**  
+7. **Education:**  
+    **MINSK STATE ARCHITECTURAL AND CONSTRUCTION COLLEGE(April 2015):**  
+    **Industrial and civil engineering (specialization-Building technician)**  
+    **Courses:**  
+    * **IT-Academy Belhard;**  
+    * **Modern Frond-end with usage of JavaScript and HTML5(October 2018);**  
