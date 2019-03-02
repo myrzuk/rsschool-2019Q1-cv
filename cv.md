@@ -8,3 +8,24 @@
    * **HTML5/CSS/JS;**  
    * **Libraries-Frameworks: AngularJS/Boostrap/Magnific-Popup/Ajax;**  
    * **Knowledge of API;**  
+5. **Example code:**
+   ```javascript   
+        let serNav = $('.lp-content ul.b1');  
+        serNav.find('li a').on('click', function (e) {  
+            let linkTr = $($(this).attr('href'));  
+            if (linkTr.length > 0) {  
+                var dataOffset = 44;  
+                e.preventDefault();  
+                if (linkTr.attr('data-offset')) {  
+                    dataOffset = parseInt(linkTr.attr('data-offset'));  
+                }  
+                var offset = linkTr.offset().top;  
+                e.preventDefault();  
+                $('html, body').animate({  
+                    scrollTop: offset - dataOffset  
+                }, 750);  
+            }  
+        });
+   ```
+6. **My practice:**  
+   **[My Landing-Page](https://myrzuk.github.io)**  
