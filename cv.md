@@ -35,5 +35,5 @@
     **Courses:**  
     * **IT-Academy Belhard;**  
     * **Modern Frond-end with usage of JavaScript and HTML5(October 2018);**  
-8. **English levele:**  
-   **Basic.I'm going to improve my level on courses.**
+8. **English level:**  
+   **Basic. I'm going to improve my level on courses.**
